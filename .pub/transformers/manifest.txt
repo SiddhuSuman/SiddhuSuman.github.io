@@ -1,0 +1,2 @@
+1.8.5
+bootstrap,code_transformers/src/delete_file,di/module_transformer,initialize,initialize/build/loader_replacer,observe,polymer/src/build/mirrors_remover,smoke/src/default_transformer
